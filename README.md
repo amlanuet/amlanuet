@@ -54,7 +54,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## 🗂️ Highlight Projects
+## 🗂️ Current And Highlight Projects
 
 <a href="https://github.com/amlanuet/p5js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=p5js&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
