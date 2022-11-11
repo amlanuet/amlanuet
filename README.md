@@ -57,7 +57,7 @@ me.say_hi()
 ## 🗂️ Current And Highlight Projects
 
 <a href="https://github.com/amlanuet/p5js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=p5js&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=p5js&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="P5js" />
 </a>
 
 <a href="https://github.com/amlanuet/Tensorflow-js-boilerplate">
@@ -65,7 +65,7 @@ me.say_hi()
 </a>
 
 <a href="https://github.com/amlanuet/OSL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=OSL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Osl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=OSL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="OSL" />
 </a>
 
 <!-- ## 🏆 GitHub Trophies
