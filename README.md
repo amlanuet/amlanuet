@@ -64,6 +64,10 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=Tensorflow-js-boilerplate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="tensorflow-javascript" />
 </a>
 
+<a href="https://github.com/amlanuet/OSL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=OSL&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Osl" />
+</a>
+
 <!-- ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amlanuet&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
