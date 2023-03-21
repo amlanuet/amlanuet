@@ -57,7 +57,7 @@ me.say_hi()
 ## 🗂️ Current And Highlight Projects
 
 <a href="https://github.com/amlanuet/Python-Chess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=p5js&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Python-Chess" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amlanuet&repo=Python-Chess&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Python-Chess" />
 </a>
 
 <a href="https://github.com/amlanuet/Tensorflow-js-boilerplate">
